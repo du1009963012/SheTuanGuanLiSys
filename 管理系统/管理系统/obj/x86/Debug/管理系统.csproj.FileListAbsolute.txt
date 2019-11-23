@@ -1,0 +1,16 @@
+D:\社团软件\管理系统\管理系统\bin\Debug\管理系统.exe
+D:\社团软件\管理系统\管理系统\bin\Debug\管理系统.pdb
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Form1.resources
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Properties.Resources.resources
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.csproj.GenerateResource.Cache
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.exe
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.pdb
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Form2.resources
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Form3.resources
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.csprojResolveAssemblyReference.cache
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Form4.resources
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Form5.resources
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Form6.resources
+D:\社团软件\管理系统\管理系统\obj\x86\Debug\管理系统.Form7.resources
+Q:\Program Files\系统管理\管理系统\管理系统\obj\x86\Debug\管理系统.exe
+Q:\Program Files\系统管理\管理系统\管理系统\obj\x86\Debug\管理系统.pdb
